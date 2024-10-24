@@ -1,4 +1,4 @@
-# league-client-api (Resubido de riotphobia)
+# league-client-api ~Resubido de Riotphobia (Un grupo de hackers que subían cracks de LoL)
 
 currently this api will let you login to an account which is self managed and refreshes any tokens when required for you
 
